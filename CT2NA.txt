@@ -1,3 +1,6 @@
 8.47.69.181#SanFrancisco California-181
 66.81.247.25#Unkn Belmont California-25
 66.81.247.163#Unkn Belmont California-163
+8.34.146.251#SanFrancisco California-251
+8.6.112.169#SanFrancisco California-169
+216.205.52.77#New York-77
