@@ -4,3 +4,7 @@
 8.34.146.251#SanFrancisco California-251
 8.6.112.169#SanFrancisco California-169
 216.205.52.77#New York-77
+66.45.118.112#Unkn Dublin California-112
+66.45.118.180#Unkn Dublin California-180
+45.205.0.196#Unkn Washington D.C.-196
+45.205.0.198#Unkn Washington D.C.-198
